@@ -2,7 +2,7 @@
 
 ## Team Member (Kelompok 18)
 •⁠  ⁠Aditya Jaka Prasaja (ARSS)
-•⁠  ⁠Azel Pandya Nur Achmad (NACH)
+•⁠  Azel Pandya Nur Achmad (NACH)
 •⁠  ⁠Maulida Afifi Utami (MAUL)
 
 ## Project Description
